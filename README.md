@@ -7,10 +7,10 @@
 
 
 
-##Descripción
+## Descripción
 Masteroids - El videojuego 🎮 creado en JavaFX sin utilizar ningún motor. Homenaje al clásico videojuego de Asteroids.
 
-##Características del juego
+## Características del juego
 1. La nave puede moverse hacia todas las direcciones. Con las teclas izquierda y derecha puedes cambiar de dirección y con las teclas arriba y abajo puedes avanzar o retroceder.
 2. La nave se mueve automáticamente por el espacio. Hacia la dirección donde esté apuntando se dirigirá. A medida que avanza, irán apareciendo diferentes elementos: Planetas, asteroides y popups.
 3. El único enemigo son los asteroides, a los cuales deberás de disparar. La mayoría de las veces que eliminas un asteroide se generan otros 2 asteroides (el asteroide se divide en dos asteroides distintos.
@@ -24,7 +24,7 @@ Masteroids - El videojuego 🎮 creado en JavaFX sin utilizar ningún motor. Hom
   </a>
 </p>
 
-##Lo que faltaría por optimizar
+## Lo que faltaría por optimizar
 1. Efecto shake cuando una bala colisiona con un meteorito, la rompe, o la nave sufre un daño.
 2. Efectos de colisión (cuando se elimina un meteorito, cuando la nave sufre un impacto, cuando el jugador muere, etc).
 3. Mayor jugabilidad: Agregar naves enemigas, más elementos por pantalla, etc.
